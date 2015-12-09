@@ -1,9 +1,0 @@
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\bin\Debug\姿态显示.exe.config
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\bin\Debug\姿态显示.exe
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\bin\Debug\姿态显示.pdb
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\obj\Debug\姿态显示.csprojResolveAssemblyReference.cache
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\obj\Debug\姿态显示.Form1.resources
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\obj\Debug\姿态显示.Properties.Resources.resources
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\obj\Debug\姿态显示.csproj.GenerateResource.Cache
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\obj\Debug\姿态显示.exe
-D:\文档\Visual Studio 2013\projects\姿态显示\姿态显示\obj\Debug\姿态显示.pdb
